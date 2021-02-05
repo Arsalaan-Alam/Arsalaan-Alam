@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SKILLS-VIDEO EDITOR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SKILLS-VIDEO_EDITOR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SKILLS-SPEAKER-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HOBBY-GAMER-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 N

@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-HTML/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-JAVASCRIPT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -26,5 +25,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/SKILLS-VIDEO_EDITOR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SKILLS-SPEAKER-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HOBBY-GAMER-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-N
-

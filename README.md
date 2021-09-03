@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **studyfreak1234@gmail.com**
 
-- ⚡ Fun fact **I love to do hackathons. 6 times winner**
+- ⚡ Fun fact **I love to do hackathons. 6X Champ **
 
 
 

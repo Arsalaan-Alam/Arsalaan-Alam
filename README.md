@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FinForge](#)**
+- 🔭 I’m currently working on **[SwishPaper](#)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
 

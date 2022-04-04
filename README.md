@@ -73,7 +73,28 @@
 
 - Hop Hacks 2021
 
--Hyper Hacks 2021
+- Hyper Hacks 2021
+
+- PennApps 2021
+
+- Los Altos Hacks 2021
+
+- Massey Hacks 2021
+
+- Teenhacks LI 2021
+
+- NASA Space Apps Challenge 2021
+
+- Iotex Hackathon India 2021
+
+- Opportunity Hacks 2021
+ 
+- HackAPAC 2021
+
+- Rose Hacks 2022
+
+- Health Hacks 2022 
+
 
 
 

@@ -29,13 +29,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[SwishPaper](#)**
+- 🔭 I’m currently working on **[Healthdemic](https://devpost.com/software/mental-health-bot-idgj9t)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**
+- 🌱 I’m currently learning **Tiger Graph**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **[My portfolio is under development](#)**
+- 👨‍💻 All of my projects are available at **[My devpost](https://devpost.com/studyfreak1234)**
 
 - 📫 How to reach me **studyfreak1234@gmail.com**
 

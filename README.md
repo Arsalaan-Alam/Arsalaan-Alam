@@ -35,7 +35,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **[My devpost](https://devpost.com/studyfreak1234)**
+- 👨‍💻 All of my projects are available at **[My Devpost](https://devpost.com/studyfreak1234)**
 
 - 📫 How to reach me **studyfreak1234@gmail.com**
 

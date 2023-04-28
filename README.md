@@ -29,9 +29,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Healthdemic](https://devpost.com/software/mental-health-bot-idgj9t)**
+- 🔭 I’m currently working on **[OrdSimilarity](http://ordsimilarity.com/)**
 
-- 🌱 I’m currently learning **Tiger Graph**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -71,6 +71,10 @@
 - Rose Hacks 2022
 
 - Health Hacks 2022
+
+- Cudos Hackaunauts 2022
+
+- BTC Olympics 2023
 
 <br/>
 <br/>

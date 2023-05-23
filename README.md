@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[OrdSimilarity](http://ordsimilarity.com/)**
+- 🔭 I’m currently working on **[DMedico](https://dmedico-71517a.spheron.app/)**
 
 - 🌱 I’m currently learning **Rust**
 

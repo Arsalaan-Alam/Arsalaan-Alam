@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **[DMedico](https://dmedico-71517a.spheron.app/)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust & and ML with Tensor Flow**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 

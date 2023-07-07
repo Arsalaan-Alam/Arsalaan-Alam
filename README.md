@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DMedico](https://dmedico-71517a.spheron.app/)**
+- 🔭 I’m currently working on **[Flocial](https://dmedico-71517a.spheron.app/)**
 
 - 🌱 I’m currently learning **Rust & and ML with Tensor Flow**
 

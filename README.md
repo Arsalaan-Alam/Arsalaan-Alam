@@ -29,17 +29,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flocial](https://dmedico-71517a.spheron.app/)**
+- 🔭 I’m currently working on **[Flocial](https://flocial.vercel.app/)**
 
 - 🌱 I’m currently learning **Rust & and ML with Tensor Flow**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **web3/AI Projects**
 
 - 👨‍💻 All of my projects are available at **[My Devpost](https://devpost.com/studyfreak1234)**
 
 - 📫 How to reach me **studyfreak1234@gmail.com**
 
-- ⚡ Fun fact  **I love to do hackathons**
+- ⚡ My personal website is **arsalaan.bio**
 
 
 ## Winning List:
@@ -75,6 +75,8 @@
 - Cudos Hackaunauts 2022
 
 - BTC Olympics 2023
+
+- FVM Dataverse 2023
 
 <br/>
 <br/>

@@ -29,9 +29,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DSearch]()**
+- 🔭 I’m currently working on **[DApilink](https://tinyurl.com/Dapilink)**
 
-- 🌱 I’m currently learning **Rust & and ML with Tensor Flow**
+- 🌱 I’m currently learning **Rust & Zero-Knowledge Proofs**
 
 - 👯 I’m looking to collaborate on **web3/AI Projects**
 
@@ -77,6 +77,8 @@
 - BTC Olympics 2023
 
 - FVM Dataverse 2023
+
+- Privacy 4 Web3 2023
 
 <br/>
 <br/>

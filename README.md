@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **[DApilink](https://tinyurl.com/Dapilink)**
 
-- 🌱 I’m currently learning **Rust & Zero-Knowledge Proofs**
+- 🌱 I’m currently learning **Rust & Upskilling in AI**
 
 - 👯 I’m looking to collaborate on **web3/AI Projects**
 

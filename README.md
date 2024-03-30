@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Arsalaan-Alam/Arsalaan-Alam/blob/main/header.png?raw=true)
 
-<a href="https://twitter.com/arsalaan_alam">
+<a href="https://twitter.com/arsalaanalam2">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arsalaan-alam-375b281bb/">
@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DApilink](https://tinyurl.com/Dapilink)**
+- 🔭 I’m currently working on **[Liteseed](https://liteseed.xyz/)**
 
 - 🌱 I’m currently learning **Rust & Upskilling in AI**
 
@@ -37,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Devpost](https://devpost.com/studyfreak1234)**
 
-- 📫 How to reach me **studyfreak1234@gmail.com**
+- 📫 How to reach me **arsalaanalamcollege@gmail.com**
 
 - ⚡ My personal website is **arsalaan.bio**
 
